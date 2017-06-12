@@ -6,10 +6,15 @@ For any performance metric to have an impact it has to have 3 characteristics:
 - **Address decision maker's concern clearly**  
 If the metric being used does not inform a decision maker, or give a frontline
 worker a better sense of how well they are doing their job, the metric may not
-be relevant. This can be the case even for metrics that feel
+be relevant. This can be the case even for metrics that feel important.
 
 - **A clear feedback loop for improvement**
 A
+
+- **Sustainable process for data collection and dissemination**  
+At the beginning of any project, particularly one that is introducing new processes
+into an organization, the question of whether this new process will outlast the team
+that is developing it is important to plan for. This is even more
 
 ### Start Small
 It can be tempting to want to tackle all issues at once. There may be pressure from
@@ -25,4 +30,4 @@ Is there a process in the City that is particularly burdensome for employees or 
 Does
 
 ### Deciding What To Track
-Keeping the 
+Keeping the

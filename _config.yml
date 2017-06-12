@@ -50,6 +50,22 @@ navigation:
 - text: 5. The Dangers of Data
   url: 5-the-danger-of-data/
   internal: true
+- text: 6. Document Your Process
+  url: 6-document-your-process/
+  internal: true
+- text: 7. Data Pipeline
+  url: 7-data-pipeline/
+  internal: true
+  children:
+  - text: Cleaning and Consolidating
+    url: cleaning-and-consolidation/
+    internal: true
+  - text: Find The Data
+    url: find-the-data/
+    internal: true
+  - text: Output
+    url: output/
+    internal: true
 
 repos:
 - name: Guides Template
