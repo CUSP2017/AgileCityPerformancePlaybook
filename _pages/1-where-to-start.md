@@ -15,7 +15,7 @@ A
 It can be tempting to want to tackle all issues at once. There may be pressure from
 decision makers above you to roll out a 'comprehensive' performance management system
 from the beginning. Resist that urge. Focus on a narrow domain and get it right. This
-is the best way to learn quickly what works and what does not.
+is the best way to learn quickly what works and what does not. Then, success in one area can help to generate more political capital to support further applications.
 
 > **Example:** A young mayor comes into office with a mandate for change. She wants to
 see results, and fast, and tasks you with making it happen. Rather then try to address
