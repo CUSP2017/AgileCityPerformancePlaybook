@@ -35,37 +35,41 @@ expand_nav: true
 navigation:
 - text: Who Is This For?
   internal: true
-- text: 1. Where To Start
-  url: 1-where-to-start/
+- text: Where To Start
+  url: where-to-start/
   internal: true
-- text: 2. Data Quality
-  url: 2-data-quality/
-  internal: true
-- text: 3. Public Outreach
-  url: 3-public-outreach/
-  internal: true
-- text: 4. Privacy
-  url: 4-privacy/
-  internal: true
-- text: 5. The Dangers of Data
-  url: 5-the-danger-of-data/
-  internal: true
-- text: 6. Document Your Process
-  url: 6-document-your-process/
-  internal: true
-- text: 7. Data Pipeline
-  url: 7-data-pipeline/
+- text: Data Pipeline
+  url: data-pipeline/
   internal: true
   children:
-  - text: Cleaning and Consolidating
-    url: cleaning-and-consolidation/
+  - text: 1. Find The Data
+    url: 1-find-the-data/
     internal: true
-  - text: Find The Data
-    url: find-the-data/
+  - text: 2. Cleaning and Consolidating
+    url: 2-cleaning-and-consolidation/
     internal: true
-  - text: Output
-    url: output/
+  - text: 3. Output
+    url: 3-output/
     internal: true
+- text: Data Quality
+  url: data-quality/
+  internal: true
+- text: Document Your Process
+  url: document-your-process/
+  internal: true
+- text: Public Outreach
+  url: public-outreach/
+  internal: true
+- text: Privacy & Ethics
+  url: privacy-and-ethics/
+  internal: true
+  children:
+  - text: The Dangers of Data
+    url: the-danger-of-data/
+    internal: true
+- text: Managing Change
+  url: managing-change/
+  internal: true
 
 repos:
 - name: Guides Template

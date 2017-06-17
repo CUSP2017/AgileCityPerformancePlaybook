@@ -1,20 +1,31 @@
 ---
-title: 1. Where To Start
+title: Where To Start
 ---
-For any performance metric to have an impact it has to have 3 characteristics:
+For any performance management project to have an impact it has to have several
+key characteristics:
 
 - **Address decision maker's concern clearly**  
 If the metric being used does not inform a decision maker, or give a frontline
 worker a better sense of how well they are doing their job, the metric may not
 be relevant. This can be the case even for metrics that feel important.
 
-- **A clear feedback loop for improvement**
-A
+- **A clear feedback loop for improvement**  
+A metric is not helpful in improving performance if there is not a clear path for
+the city to improve it. Or, if improving it is outside the city's control. Performance
+metrics should capture tangible statistics on the state of the city, and there should
+be clear actions the city can take to move the metric in the right direction.
 
 - **Sustainable process for data collection and dissemination**  
 At the beginning of any project, particularly one that is introducing new processes
 into an organization, the question of whether this new process will outlast the team
 that is developing it is important to plan for. This is even more
+
+- **Mandate for change (or the patience and boldness to work toward one)**  
+Introducing a new process to any organization is a challenge. The introduction of
+performance management can put people on the defensive, can make , and is only effective
+if the entire organization rallies around the change. More then anything, the success
+of a performance management project rests on the ability for individuals in an organization
+to
 
 ### Start Small
 It can be tempting to want to tackle all issues at once. There may be pressure from

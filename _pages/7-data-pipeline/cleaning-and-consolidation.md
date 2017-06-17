@@ -1,3 +1,0 @@
----
-title: Cleaning and Consolidating
----
