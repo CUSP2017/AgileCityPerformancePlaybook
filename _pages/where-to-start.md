@@ -22,16 +22,16 @@ that is developing it is important to plan for. This is even more
 
 - **Mandate for change (or the patience and boldness to work toward one)**  
 Introducing a new process to any organization is a challenge. The introduction of
-performance management can put people on the defensive, can make , and is only effective
-if the entire organization rallies around the change. More then anything, the success
-of a performance management project rests on the ability for individuals in an organization
-to
+performance management can put people on the defensive and can make them resistant
+to change if they feel their job is threatened. Finding solutions to these fears
+is important. More then anything, the success of a performance management project
+rests on the ability of individuals in an organization to rally around a new process.
 
 ### Start Small
 It can be tempting to want to tackle all issues at once. There may be pressure from
 decision makers above you to roll out a 'comprehensive' performance management system
 from the beginning. Resist that urge. Focus on a narrow domain and get it right. This
-is the best way to learn quickly what works and what does not. Then, success in one area can help to generate more political capital to support further applications.
+is the best way to learn quickly what works and what does not.
 
 > **Example:** A young mayor comes into office with a mandate for change. She wants to
 see results, and fast, and tasks you with making it happen. Rather then try to address

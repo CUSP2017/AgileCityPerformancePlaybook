@@ -3,8 +3,8 @@ permalink: /
 title: Who Is This For?
 ---
 
-Not all cities are big. There are over *** cities in the United States with less
-than 100,000 people. These cities represent % of all urban dwellers in the country.
+Not all cities are big. There are over 1000 cities in the United States with a population
+between 40,000 and 1 million people. These cities represent % of all urban dwellers in the country.
 This significant
 
 We are calling these cities 'agile cities' to highlight an advantage smaller cities have
